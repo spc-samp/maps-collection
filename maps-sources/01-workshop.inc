@@ -38,8 +38,8 @@
 #endif
 
 // Change if necessary
-#define MAP_NAME_01 "Auto"
-#define MAP_NAME_02 "Oficina"
+#define 01_MAP_NAME_01 "Auto"
+#define 01_MAP_NAME_02 "Oficina"
 
 public OnPlayerConnect(playerid)
 {
@@ -180,7 +180,7 @@ public OnGameModeInit()
         SetObjectMaterialText(mci_01_variable, "@", 0, 130, "Webdings", 199, 0, 0xFFFFFFFF, 0x00000000, 1);
         mci_01_variable = CreateObject(19482, 2501.984375, -1524.045288, 30.339620, 0.000000, 0.000000, 90.000000, 300.00); 
         SetObjectMaterial(mci_01_variable, 0, 10101, "2notherbuildsfe", "Bow_Abpave_Gen", 0x00000000);
-        SetObjectMaterialText(mci_01_variable, ""MAP_NAME_01"\n "MAP_NAME_02"", 0, 130, "Quartz MS", 100, 0, 0xFFFFFFFF, 0x00000000, 1);
+        SetObjectMaterialText(mci_01_variable, ""01_MAP_NAME_01"\n "01_MAP_NAME_02"", 0, 130, "Quartz MS", 100, 0, 0xFFFFFFFF, 0x00000000, 1);
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -335,7 +335,7 @@ public OnGameModeInit()
         SetDynamicObjectMaterialText(mci_01_variable, 0, "@", 130, "Webdings", 199, 0, 0xFFFFFFFF, 0x00000000, 1);
         mci_01_variable = CreateDynamicObject(19482, 2501.984375, -1524.045288, 30.339620, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
         SetDynamicObjectMaterial(mci_01_variable, 0, 10101, "2notherbuildsfe", "Bow_Abpave_Gen", 0x00000000);
-        SetDynamicObjectMaterialText(mci_01_variable, 0, ""MAP_NAME_01"\n "MAP_NAME_02"", 130, "Quartz MS", 100, 0, 0xFFFFFFFF, 0x00000000, 1);
+        SetDynamicObjectMaterialText(mci_01_variable, 0, ""01_MAP_NAME_01"\n "01_MAP_NAME_02"", 130, "Quartz MS", 100, 0, 0xFFFFFFFF, 0x00000000, 1);
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
