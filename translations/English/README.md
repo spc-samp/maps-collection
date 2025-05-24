@@ -4,7 +4,7 @@ The maps-collection is a repository dedicated to providing a diverse collection 
 
 ## Languages
 
-- Portuguese: [README](../../)
+- Português: [README](../../)
 - Deutsch: [README](../Deutsch/README.md)
 - Español: [README](../Espanol/README.md)
 - Français: [README](../Francais/README.md)
