@@ -1,6 +1,6 @@
-# maps-collection
+# Maps Collection
 
-Maps-collection är ett repository som dedicerat tillhandahåller en mångsidig samling av mappningar för SA-MP (San Andreas Multiplayer). Vårt mål är att erbjuda mappningar för utvecklare och serverkapare, vilket underlättar skapandet av immersiva och anpassade miljöer i deras servrar.
+Maps Collection är ett repository som dedicerat tillhandahåller en mångsidig samling av mappningar för SA-MP (San Andreas Multiplayer). Vårt mål är att erbjuda mappningar för utvecklare och serverkapare, vilket underlättar skapandet av immersiva och anpassade miljöer i deras servrar.
 
 ## Språk
 
@@ -16,7 +16,7 @@ Maps-collection är ett repository som dedicerat tillhandahåller en mångsidig 
 
 ## Innehållsförteckning
 
-- [maps-collection](#maps-collection)
+- [Maps Collection](#maps-collection)
   - [Språk](#språk)
   - [Innehållsförteckning](#innehållsförteckning)
   - [Funktioner](#funktioner)

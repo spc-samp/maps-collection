@@ -1,6 +1,6 @@
-# maps-collection
+# Maps Collection
 
-Maps-collection, SA-MP (San Andreas Multiplayer) için çeşitli haritalama koleksiyonunu ücretsiz olarak sunmaya adanmış bir depodur. Amacımız, geliştiricilere ve sunucu oluşturucularına, sunucularında sürükleyici ve özelleştirilmiş ortamlar oluşturmalarını kolaylaştıran haritalamalar sağlamaktır.
+Maps Collection, SA-MP (San Andreas Multiplayer) için çeşitli haritalama koleksiyonunu ücretsiz olarak sunmaya adanmış bir depodur. Amacımız, geliştiricilere ve sunucu oluşturucularına, sunucularında sürükleyici ve özelleştirilmiş ortamlar oluşturmalarını kolaylaştıran haritalamalar sağlamaktır.
 
 ## Diller
 
@@ -16,7 +16,7 @@ Maps-collection, SA-MP (San Andreas Multiplayer) için çeşitli haritalama kole
 
 ## İçindekiler
 
-- [maps-collection](#maps-collection)
+- [Maps Collection](#maps-collection)
   - [Diller](#diller)
   - [İçindekiler](#i̇çindekiler)
   - [Özellikler](#özellikler)

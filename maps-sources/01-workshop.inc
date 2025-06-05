@@ -1,5 +1,5 @@
 /*
- * maps-collection - Maps for SA-MP (San Andreas Multiplayer)
+ * Maps Collection - Maps for SA-MP (San Andreas Multiplayer)
  * Copyright (c) SA-MP Programming Community
  *
  * Licensed under the MIT License (https://opensource.org/licenses/MIT)
@@ -33,7 +33,7 @@
 
 #if !defined _INC_open_mp
     #if !defined _samp_included
-        #error "The `a_samp` library has not been activated. Please activate it at the beginning of your Gamemode, Ex: `#include <a_samp>`"
+        #error "The "a_samp" ("or open.mp") library has not been activated. Please activate it at the beginning of your Gamemode, Ex: "#include <a_samp>" ("or <open.mp>")"
     #endif
 #endif
 
@@ -58,7 +58,7 @@ public OnGameModeInit()
     print("__________________________________________________________________");
     print("||==============================================================||");
     print("||                                                              ||");
-    print("||                        maps-collection                       ||");
+    print("||                        Maps Collection                       ||");
     print("||                                                              ||");
     print("|| Mapper: Max Alexander                                        ||");
     print("|| Instagram: maxxfz_                                           ||");

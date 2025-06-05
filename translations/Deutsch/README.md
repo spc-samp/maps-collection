@@ -1,6 +1,6 @@
-# maps-collection
+# Maps Collection
 
-Die maps-collection ist ein Repository, das kostenlos eine vielfältige Sammlung von Mappings für SA-MP (San Andreas Multiplayer) bereitstellt. Unser Ziel ist es, Entwicklern und Serverbetreibern Mappings zur Verfügung zu stellen und die Erstellung immersiver und individueller Serverumgebungen zu erleichtern.
+Die Maps Collection ist ein Repository, das kostenlos eine vielfältige Sammlung von Mappings für SA-MP (San Andreas Multiplayer) bereitstellt. Unser Ziel ist es, Entwicklern und Serverbetreibern Mappings zur Verfügung zu stellen und die Erstellung immersiver und individueller Serverumgebungen zu erleichtern.
 
 ## Sprachen
 
@@ -16,7 +16,7 @@ Die maps-collection ist ein Repository, das kostenlos eine vielfältige Sammlung
 
 ## Inhaltsverzeichnis
 
-- [maps-collection](#maps-collection)
+- [Maps Collection](#maps-collection)
   - [Sprachen](#sprachen)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [Merkmale](#merkmale)
