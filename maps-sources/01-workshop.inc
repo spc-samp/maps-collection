@@ -41,8 +41,7 @@
 #define 01_MAP_NAME_01 "Auto"
 #define 01_MAP_NAME_02 "Oficina"
 
-public OnPlayerConnect(playerid)
-{
+public OnPlayerConnect(playerid) {
     RemoveBuildingForPlayer(playerid, 673, 2495.270, -1538.010, 22.867, 0.250);
     
     #if defined MCI_01_OnPlayerConnect
@@ -52,8 +51,7 @@ public OnPlayerConnect(playerid)
     #endif
 }
 
-public OnGameModeInit()
-{
+public OnGameModeInit() {
     print(" ");
     print("__________________________________________________________________");
     print("||==============================================================||");
