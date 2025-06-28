@@ -20,7 +20,7 @@ O Maps Collection é um repositório dedicado a disponibilizar gratuitamente uma
   - [Idiomas](#idiomas)
   - [Índice](#índice)
   - [Características](#características)
-  - [Mapeamemtos](#mapeamemtos)
+  - [Mapeamentos](#mapeamentos)
     - [Auto Oficina](#auto-oficina)
   - [Licença](#licença)
     - [Termos e Condições de Uso](#termos-e-condições-de-uso)
@@ -42,7 +42,7 @@ Os includes são desenvolvidos com inteligência e compatibilidade em mente:
 - Se o plugin [streamer](https://github.com/samp-incognito/samp-streamer-plugin) estiver ativo, os objetos são criados utilizando `CreateDynamicObject()`.
 - Caso o include/plugin [streamer](https://github.com/samp-incognito/samp-streamer-plugin) não esteja presente, os objetos são criados com `CreateObject()`.
 
-## Mapeamemtos
+## Mapeamentos
 
 ### Auto Oficina
 
